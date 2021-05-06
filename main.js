@@ -20,7 +20,6 @@ function player_update()
                           left: player_x});
                        canvas.add(player_object);
                        });
-    )
     
 function new_image(get_image) 
 {
