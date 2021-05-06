@@ -32,7 +32,6 @@ function new_image(get_image)
                           left: player_x});
                        canvas.add(block_image_object);
                        });
-    )
     
  window.addEventListener("keydown", my_keydown);
   function my_keydown(e)
